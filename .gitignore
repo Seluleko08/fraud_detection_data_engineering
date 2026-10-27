@@ -1,0 +1,36 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+*.dbmdl
+*.jfm
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## SSIS / SQL Server
+*.dtproj.user
+*.database
+*.db
+*.ldf
+*.mdf
+*.bak
+*.trn
+
+## OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## Git
+.git/
+
+## Local project artifacts
+*.log
+*.tmp
