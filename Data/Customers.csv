@@ -1,0 +1,7 @@
+CustomerID,CustomerName,Country,AccountStatus
+C001,Alice,USA,Active
+C002,Bob,UK,Suspended
+C003,Charlie,South Africa,Active
+C004,Diana,USA,Active
+C005,Edward,Canada,Active
+C006,Faith,USA,Suspended
